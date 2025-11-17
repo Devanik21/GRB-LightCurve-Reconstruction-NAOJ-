@@ -110,7 +110,7 @@ This paper heavily influenced the modeling direction of my internship.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure (Beta)
 
 ```
 GRB-LightCurve-Reconstruction-NAOJ/
